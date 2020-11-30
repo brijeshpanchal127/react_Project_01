@@ -1,3 +1,4 @@
+/* eslint import/no-anonymous-default-export: [2, {"allowAnonymousFunction": true}] */
 import {
     SEARCH_MOVIE,
     FETCH_MOVIES,
